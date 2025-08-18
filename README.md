@@ -15,6 +15,7 @@ The program asks the user for their favorite city and childhood pet, then genera
 **Code:** [Day01/band_name_generator.py](https://github.com/KaylaYuChen/python-100-days-/blob/main/Day01/band_name_generator.py)
 
 **Sample Output:**
+```
 🎸 Welcome to the Band Name Generator! 🎤
 I will help you create a fun name for your band.
 
@@ -24,6 +25,7 @@ Paris
 Max
 
 ✨ Your band name could be: Paris Max ✨
+```
 
 
 ---
