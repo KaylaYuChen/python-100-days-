@@ -12,7 +12,8 @@ The program asks the user for their favorite city and childhood pet, then genera
 - Learned about input() for collecting user input
 - Added emojis for a more fun user experience 🎸🐶🌆✨  
 
-**Code:** 
+**Code:** [Day01/band_name_generator.py](https://github.com/KaylaYuChen/python-100-days-/blob/main/Day01/band_name_generator.py)
+
 **Sample Output:**
 🎸 Welcome to the Band Name Generator! 🎤
 I will help you create a fun name for your band.
