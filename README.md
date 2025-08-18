@@ -39,4 +39,4 @@ Max
 
 ## 🌟 Connect
 - [LinkedIn](https://www.linkedin.com/in/kaylayuchen)  
-- [GitHub](https://github.com/YOUR-USERNAME)
+- [GitHub](https://github.com/KaylaYuChen)
