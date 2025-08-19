@@ -6,6 +6,26 @@ This repository contains the projects I build each day — from beginner exercis
 
 ## 📅 Projects
 
+### ✅ Day 2: Tip Calculator 💵
+A beginner project that calculates how much each person should pay when splitting a restaurant bill, including tip.  
+The program asks for the total bill, tip percentage, and number of people, then outputs the split amount.  
+
+- Practiced **numbers and math operations**  
+- Learned about **type conversion** (`int()`, `float()`)  
+- Used **round()** for decimal precision  
+- Introduced to **f-strings** for cleaner output  
+
+**Code:** [`Day02/tip_calculator.py`](Day02/tip_calculator.py)  
+
+**Sample Output:**
+```
+Welcome to the Tip Calculator!
+What was the total bill? $124.56
+What percentage tip would you like to give? 10, 12, or 15? 12
+How many people to split the bill? 7
+Each person should pay: $19.90
+```
+
 ### ✅ Day 1: Band Name Generator 🎵
 The program asks the user for their favorite city and childhood pet, then generates a personalized band name. 
 - Practiced string concatenation with `+`
