@@ -7,7 +7,7 @@ This repository contains the projects I build each day — from beginner exercis
 ## 📅 Projects
 
 ### ✅ Day 2: Tip Calculator 💵
-A beginner project that calculates how much each person should pay when splitting a restaurant bill, including tip.  
+Tip Calculator calculates how much each person should pay when splitting a restaurant bill, including tip.  
 The program asks for the total bill, tip percentage, and number of people, then outputs the split amount.  
 
 - Practiced **numbers and math operations**  
