@@ -1,10 +1,57 @@
 # python-100-days-
-Sharing my journey of learning Python from scratch —  through Dr. Angela Yu’s 100 Days of Code Course.  
+Sharing my journey of learning Python from scratch —  through Dr. Angela Yu’s Code Course.  
 This repository contains the projects I build each day — from beginner exercises to full applications.
 
 ---
 
 ## 📅 Projects
+### ✅ Day 3: Treasure Island 🏝️
+A text-based adventure game where the player chooses their own path to (hopefully) find the treasure.  
+This project used **conditionals** (`if`, `elif`, `else`) and **input normalization** (`.strip().lower()`) to handle user choices.  
+
+- Practiced **nested conditionals**  
+- Learned to **normalize user input** with `.strip().lower()`  
+- Added **ASCII art** for a more fun intro 🎨  
+
+**Code:** [`Day03/treasure_island.py`](Day03/treasure_island.py)  
+
+**Sample Output:**
+          *******************************************************************************
+                                       ` )
+                              (         (
+                               )      (
+                             )          )
+                            (          ( ,
+                           _ _)_      .-).
+                .--._ _.--'.',-.\_.--' (_)`.
+              .'_.   `  _.'  `-'    __._.--;
+             /.'  `.  -'     ___.--' ,--.  :       o       ,-. _
+            : |  o()|       ,'  .-'`.(   |  '      (   o  ,' .-' `,
+           :  `.  .'    ._'-,  \   | \  ||/        `.{  / .'    :
+          .;    `'    ,',\|\|   \  |  `.;'     .__(()`./.'  _.-'
+          ;           |   ` `    \.'|\\ :      ``.-. _ '_.-'
+         .'           ` /|,         `|\\ \        -'' \  \
+         :             \`/|,-.       `|\\ :         ,-'| `-.
+         :        _     \`/  |   _   .^.'\ \          -'> \_
+         `;      --`-.   \`._| ,' \  |  \ : \           )`.\`-
+          :.      .---\   \   ,'   | '   \ : .          `  `.\_,/
+           :.        __\   `. :    | `-.-',  :               `-'
+           `:.     -'   `.   `.`---'__.--'  /
+            `:         __.\    `---'      _'
+             `:.     -'    `.       __.--'
+              `:.          __`--.--'\
+---------------- `:.      --'     __   `.--------------------------------------
+
+*******************************************************************************
+Welcome to Treasure Island.
+Your mission is to find the treasure.
+You're at a cross road. Where do you want to go? Type "Left" or "Right": left
+You've come to a lake. There is an island in the middle of the lake. 
+Type "wait" to wait for a boat. Type "swim" to swim over: wait
+You've arrived at the island unharmed. There is a house with 3 doors. 
+One red, one yellow, and one blue. Which color do you choose? yellow
+You found the treasure of gold! Dig in and You WIN!
+
 
 ### ✅ Day 2: Tip Calculator 💵
 Tip Calculator calculates how much each person should pay when splitting a restaurant bill, including tip.  
