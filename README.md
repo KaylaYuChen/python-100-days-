@@ -44,12 +44,24 @@ This project used **conditionals** (`if`, `elif`, `else`) and **input normalizat
 *******************************************************************************
 Welcome to Treasure Island.
 Your mission is to find the treasure.
-You're at a cross road. Where do you want to go? Type "Left" or "Right": left
-You've come to a lake. There is an island in the middle of the lake. 
-Type "wait" to wait for a boat. Type "swim" to swim over: wait
-You've arrived at the island unharmed. There is a house with 3 doors. 
-One red, one yellow, and one blue. Which color do you choose? yellow
-You found the treasure of gold! Dig in and You WIN!
+
+You're at a cross road. 
+Where do you want to go? Type "Left" or "Right": left
+
+You've come to a lake. 
+There is an island in the middle of the lake. 
+Type "wait" to wait for a boat. 
+Type "swim" to swim over: wait
+
+You've arrived at the island unharmed. 
+There is a house with 3 doors. 
+One red, one yellow, and one blue. 
+
+Which color do you choose? red
+
+🔥 You just opened the door to the dungeon of dragons.  
+The dragons are hungry... 🐉 Game Over.
+
 ```
 
 ### ✅ Day 2: Tip Calculator 💵
