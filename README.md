@@ -14,9 +14,8 @@ This project used **conditionals** (`if`, `elif`, `else`) and **input normalizat
 - Added **ASCII art** for a more fun intro 🎨  
 
 **Code:** [`Day03/treasure_island.py`](Day03/treasure_island.py)  
-
-**Sample Output:**
-          *******************************************************************************
+```
+*********************************************************************************
                                        ` )
                               (         (
                                )      (
@@ -51,7 +50,7 @@ Type "wait" to wait for a boat. Type "swim" to swim over: wait
 You've arrived at the island unharmed. There is a house with 3 doors. 
 One red, one yellow, and one blue. Which color do you choose? yellow
 You found the treasure of gold! Dig in and You WIN!
-
+```
 
 ### ✅ Day 2: Tip Calculator 💵
 Tip Calculator calculates how much each person should pay when splitting a restaurant bill, including tip.  
