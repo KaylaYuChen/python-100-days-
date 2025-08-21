@@ -1,6 +1,6 @@
 # python-100-days-
 Sharing my journey of learning Python from scratch —  through Dr. Angela Yu’s Code Course.  
-This repository contains the projects I build each day — from beginner exercises to full applications.
+This repository contains the projects I build each day — from exercises to full applications.
 
 ---
 
