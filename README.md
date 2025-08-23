@@ -1,10 +1,22 @@
-# python-100-days-
+# python-100-projects-
 Sharing my journey of learning Python from scratch —  through Dr. Angela Yu’s Code Course.  
 This repository contains the projects I build each day — from exercises to full applications.
 
 ---
 
 ## 📅 Projects
+### ✅ Day 4: Rock, Paper, Scissors ✊📄✂️
+A simple Python game where the player chooses Rock, Paper, or Scissors and competes against a random computer choice.  
+This project reinforced **conditionals**, **lists**, and **random number generation**.
+
+- Practiced using **lists** for ASCII art storage  
+- Learned **random.randint()** for computer choice  
+- Built game logic with **nested conditionals**  
+
+**Code:** [`Day04/rock_paper_scissors.py`](Day04/rock_paper_scissors.py)  
+
+
+
 ### ✅ Day 3: Treasure Island 🏝️
 A text-based adventure game where the player chooses their own path to (hopefully) find the treasure.  
 This project used **conditionals** (`if`, `elif`, `else`) and **input normalization** (`.strip().lower()`) to handle user choices.  
