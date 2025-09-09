@@ -4,7 +4,41 @@ This repository contains the projects I build each day — from exercises to ful
 
 ---
 
+## 🚀 Goals
+- Complete all 100 projects  
+- Document learning progress daily  
+
+---
+
 ## 📅 Projects
+
+### ✅ Day 5: Password Generator 🔑
+A program that generates secure random passwords using letters, numbers, and symbols.  
+It includes two modes:  
+- **Easy Level** → Characters are ordered (letters, then symbols, then numbers)  
+- **Hard Level** → Characters are randomized using `random.shuffle()`  
+
+- Practiced **for loops** and list building  
+- Reinforced using **random.choice()** for random selection  
+- Used string concatenation (`+=`) to build the password 
+
+**Code:** [`Day05/password_generator.py`](Day05/password_generator.py)  
+**Sample Output:**
+```
+Welcome to the PyPassword Generator!
+How many letters would you like in your password?
+4
+How many symbols would you like?
+2
+How many numbers would you like?
+3
+
+Easy password (ordered): ghKD$+84
+Unshuffled list: ['g', 'h', 'K', 'D', '$', '+', '8', '4']
+Shuffled list: ['$', 'h', 'g', 'K', '+', 'D', '4', '8']
+Your hard password is: $hgK+D48
+```
+
 ### ✅ Day 4: Rock, Paper, Scissors ✊📄✂️
 A simple Python game where the player chooses Rock, Paper, or Scissors and competes against a random computer choice.  
 This project reinforced **conditionals**, **lists**, and **random number generation**.
@@ -14,6 +48,73 @@ This project reinforced **conditionals**, **lists**, and **random number generat
 - Built game logic with **nested conditionals**  
 
 **Code:** [`Day04/rock_paper_scissors.py`](Day04/rock_paper_scissors.py)  
+
+**Sample Output:**
+Case 1 – You choose Rock (0), Bunny chooses Paper (1):
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors:
+0
+
+    _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___)
+
+Your bunny chose:
+
+    _______
+---'   ____)____
+          ______)
+          _______)
+         _______)
+---.__________)
+
+You lose!
+
+Case 2 – You choose Scissors (2), Bunny chooses Paper (1):
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors:
+2
+
+    _______
+---'   ____)____
+          ______)
+       __________)
+      (____)
+---.__(___)
+
+Your bunny chose:
+
+    _______
+---'   ____)____
+          ______)
+          _______)
+         _______)
+---.__________)
+
+You win!
+
+Case 3 – You and Bunny both choose Rock (draw):
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors:
+0
+
+    _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___)
+
+Your bunny chose:
+
+    _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___)
+
+It's a draw!
 
 
 
@@ -26,6 +127,8 @@ This project used **conditionals** (`if`, `elif`, `else`) and **input normalizat
 - Added **ASCII art** for a more fun intro 🎨  
 
 **Code:** [`Day03/treasure_island.py`](Day03/treasure_island.py)  
+
+**Sample Output:**
 ```
 *********************************************************************************
                                        ` )
@@ -117,13 +220,6 @@ Max
 ✨ Your band name could be: Paris Max ✨
 ```
 
-
----
-
-## 🚀 Goals
-- Complete all 100 projects  
-- Document learning progress daily  
-- Build a strong GitHub portfolio  
 
 ---
 
