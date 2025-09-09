@@ -52,8 +52,8 @@ This project reinforced **conditionals**, **lists**, and **random number generat
 **Sample Output:**
 Case 1 – You choose Rock (0), Bunny chooses Paper (1):
 What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors:
-0
-
+```
+You chose:
     _______
 ---'   ____)
       (_____)
@@ -71,11 +71,11 @@ Your bunny chose:
 ---.__________)
 
 You lose!
-
+```
 Case 2 – You choose Scissors (2), Bunny chooses Paper (1):
 What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors:
-2
-
+```
+You chose: 
     _______
 ---'   ____)____
           ______)
@@ -94,9 +94,11 @@ Your bunny chose:
 
 You win!
 
+```
 Case 3 – You and Bunny both choose Rock (draw):
 What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors:
-0
+```
+You chose:
 
     _______
 ---'   ____)
@@ -115,7 +117,7 @@ Your bunny chose:
 ---.__(___)
 
 It's a draw!
-
+```
 
 
 ### ✅ Day 3: Treasure Island 🏝️
