@@ -12,6 +12,25 @@ This repository contains the projects I build each day — from exercises to ful
 
 ## 📅 Projects
 
+### ✅ Day 6: Reeborg's World Maze 🧩
+A maze-solving program for **Reeborg’s World**, using the "right-hand rule."  
+Reeborg follows the wall on its right until it reaches the goal (the flag).
+
+- Practiced writing **custom functions** (`turn_right`)  
+- Learned **while loops** with `not at_goal()`  
+- Used **conditionals** to check `front_is_clear()` and `right_is_clear()`  
+- Built a wall-following algorithm to navigate mazes  
+
+**Code:** [`Day06/maze.py`](Day06/maze.py)
+
+**Sample Run (Description):**
+- Reeborg starts in a maze.  
+- The algorithm checks if the right side is clear:  
+  - If yes → turns right and moves.  
+  - If not but the front is clear → moves forward.  
+  - Otherwise → turns left.  
+- This repeats in a loop until Reeborg reaches the goal (the flag).  
+
 ### ✅ Day 5: Password Generator 🔑
 A program that generates secure random passwords using letters, numbers, and symbols.  
 It includes two modes:  
